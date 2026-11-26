@@ -2,7 +2,7 @@
 
 Controladoria Diversos · e-mails de 18/09 a 26/11/2026 · prazos do Merídio com data fatal de 01/09 a 31/12/2026 (extração de 26/11/2026, 16h)
 
-> **Resumo.** No período, a Natália concentra o atendimento aos clientes e cumpre os prazos do Merídio: não tem nenhum prazo vencido em aberto. O Edmar escreve pouco: 42 e-mails em 10 semanas, mais da metade só de agradecimento, e 1 em cada 5 repassa a outra pessoa uma tarefa básica do processo. No Merídio, ele tem 77 prazos vencidos ainda em aberto e quase um terço dos prazos dele foi baixado depois da data fatal.
+> **Resumo.** No período, a Natália concentra o atendimento aos clientes e tem a maior carteira de prazos. O Edmar escreve pouco: 42 e-mails em 10 semanas, mais da metade só de agradecimento, e 1 em cada 5 repassa a outra pessoa uma tarefa básica do processo. No Merídio, a Natália tem mais volume (606 prazos em 186 processos, contra 433 em 112) e cumpre o dobro de prazos no D-1: 42% contra 21%.
 
 ## 1. E-mails do grupo (sem Kurier e sem e-mails de publicação)
 
@@ -37,28 +37,34 @@ São os e-mails internos em que a pessoa pede a outra (estagiário, controladori
 - **Natália:** a maior parte é para o Paulo ou a Gabriela cadastrarem demanda nova, quase sempre com os prazos já definidos por ela. Dois dos 10 pedidos nem são delegação: um pede para corrigir um cadastro e outro pede para cadastrar um cliente no timesheet.
 - **Fora desta conta:** nos e-mails que repassam publicações (excluídos), o padrão do Edmar é "Segue nova Reclamação… para cadastro e anotação dos prazos devidos e abertura de pasta no Público". São mais 17 pedidos desse tipo, 6 deles para a própria Natália.
 
-## 3. Prazos no Merídio
+## 3. Prazos no Merídio: volume e cumprimento até o D-1
 
-| Indicador | Natália | Edmar |
+D-1 é o dia útil anterior à data fatal (descontando fins de semana e feriados nacionais). Considerei a data em que o prazo foi baixado como realizado no Merídio.
+
+| Volume | Natália | Edmar |
 |---|--:|--:|
-| Prazos sob responsabilidade (fatal 01/09 a 31/12) | 796 | 477 |
-| Com data fatal até 25/11 | 654 | 407 |
-| Realizados | 474 | 286 |
-| Cancelados | 180 | 44 |
-| **Vencidos ainda em aberto** | **0** | **77** |
-| Baixados depois da data fatal | **30 (6%)** | **90 (31%)** |
-| Atraso médio na baixa / maior atraso | 1,7 dia / 6 dias | 4,8 dias / 50 dias |
-| Realizados por mês (set / out / nov) | 146 / 187 / 141 | 117 / 102 / 67 |
-| Prazos futuros agendados | 107 | 67 |
-| Última alteração nos prazos | ela mesma em 738 de 796 | usuário "em" 371 · Paulo 70 · Natália 23 · Gabriela 9 |
+| Prazos sob responsabilidade (fatal 01/09 a 31/12, sem cancelados) | **606** | 433 |
+| Processos distintos | **186** | 112 |
+| Prazos por mês (set / out / nov / dez) | 146 / 187 / 182 / 91 | 139 / 129 / 120 / 45 |
+| Peças e petições (contestação, recursos, ED, manifestações, juntadas) | **109** | 70 |
+| Análises (despacho, decisão, sentença, acórdão, inicial) | 203 | 180 |
+| Ligados ao cliente (devolutivas, sistema do cliente, rol) | **108** | 16 |
+| Pagamentos | 15 | 95 |
+| Outros (acompanhar, pauta, sustentação oral etc.) | 171 | 72 |
 
-**Os 77 prazos vencidos do Edmar:**
+| Quando o prazo foi cumprido (realizados com fatal até 26/11) | Natália | Edmar |
+|---|--:|--:|
+| Prazos realizados | 479 | 288 |
+| D-2 ou antes | 97 (20%) | 91 (32%) |
+| **No D-1** | **201 (42%)** | 60 (21%) |
+| No dia fatal ou depois | 181 (38%) | 137 (48%) |
+| **Cumpridos até o D-1 (somando)** | **298 (62%)** | 151 (52%) |
+| Só peças e petições: cumpridas até o D-1 | **34 de 83 (41%)** | 16 de 51 (31%) |
 
-- 57 são de **Pagamento**, quase todos da Petroflex/Gasoleo, vencidos desde 04/09. Pode ser só falta de baixa, mas também pode ser pagamento não conferido.
-- Os outros 20 são processuais: **Contestação Fatal (25/11, Valgroup)**, Apelação, Embargos de Declaração, Análise de Acórdão, Análise de Despacho (4), Análise Inicial (2), Regularizar representação (2), Comprovar pagamento (2), Acompanhar (4), entre outros.
-- Há quanto tempo estão vencidos: 11 até 7 dias, 8 de 8 a 15 dias, 17 de 16 a 30 dias, 22 de 31 a 60 dias e 19 há mais de 60 dias.
-
-*Atenção: a "Data Realização" do Merídio é o dia da baixa no sistema, não necessariamente o do protocolo. Baixa depois da fatal mostra falta de controle, mas não prova perda de prazo. Vale conferir no processo os casos principais (Contestação, Apelação, ED).*
+- A Natália cumpre o dobro de prazos exatamente no D-1: 42% contra 21%. Somando o que foi feito antes, ela fecha 62% dos prazos até o D-1, contra 52% do Edmar.
+- O Edmar tem mais prazos feitos com folga (D-2 ou antes), mas também deixa quase metade (48%) para o dia fatal ou depois.
+- Nas peças e petições, a Natália entrega até o D-1 em 41% dos casos e o Edmar em 31%.
+- Na carteira da Natália pesam mais as peças e as tarefas ligadas ao cliente. Na do Edmar pesam mais as análises e os pagamentos.
 
 ## 4. Retorno aos clientes (monitor de e-mails)
 
@@ -66,21 +72,20 @@ São os e-mails internos em que a pessoa pede a outra (estagiário, controladori
 |---|--:|--:|
 | Pedidos de cliente recebidos | 29 | 2 |
 | Respondidos | 25 | 1 |
-| Vencidos (sem resposta no prazo) | 3 | 1 |
 | Tempo médio de resposta | 24 a 37 h úteis | – |
 | Cobranças ao cliente aguardando retorno | 28 em aberto | – |
 
-O pedido vencido do Edmar é o da Valgroup "ENVIO DO PROCESSO PARA A META": chegou em 09/11, venceu em 11/11 e foi respondido em 24/11. Os vencidos da Natália são de 22/09, 16/10 e 19/11 (IBACEM).
+O pedido do Edmar é o da Valgroup "ENVIO DO PROCESSO PARA A META": chegou em 09/11 e foi respondido em 24/11.
 
 ## 5. Leitura geral
 
 - **Volume e cliente:** a Natália sustenta o relacionamento com IBACEM, Royal Grapes, Valgroup, Petroflex, Capricche e Suassuna. O contato do Edmar com cliente é pontual.
 - **Autonomia:** 19% dos e-mails do Edmar repassam tarefas operacionais do próprio processo, e 55% são só agradecimento. Nos e-mails da Natália, os repasses ficam em 3%.
-- **Prazos:** a carteira da Natália está em dia e é maior (796 x 477). A do Edmar tem 77 vencidos em aberto, 20 deles processuais, e 31% baixados com atraso.
-- **Pontos de atenção da Natália:** 3 pedidos de cliente vencidos e tempo médio de resposta de 1 a 1,5 dia útil.
+- **Prazos:** a carteira da Natália é maior (606 x 433 prazos, 186 x 112 processos) e ela cumpre 62% até o D-1, sendo 42% exatamente no D-1. O Edmar cumpre 52% até o D-1 (21% no D-1) e deixa 48% para o dia fatal ou depois.
+- **Ponto de atenção da Natália:** o tempo médio de resposta ao cliente é de 1 a 1,5 dia útil, e 38% dos prazos dela ainda ficam para o dia fatal.
 
 ---
 
-Evidências: [Evidencias_Natalia_x_Edmar.xlsx](Evidencias_Natalia_x_Edmar.xlsx) (pedidos a terceiros, prazos vencidos em aberto, baixas após a fatal).
+Evidências: [Evidencias_Natalia_x_Edmar.xlsx](Evidencias_Natalia_x_Edmar.xlsx) (pedidos a terceiros e cumprimento de cada prazo em relação ao D-1).
 
 Fontes: Monitoramento de Emails (KPI2M_Diversos e Diversos, 6.371 e-mails sem duplicatas) e PautaReport 2026-11-26 16h00.xlsx do Merídio. O usuário "em" foi lido como sendo o Edmar, mas isso não está confirmado.
